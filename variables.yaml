@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.knbob.online # submit your host
+REDIS_HOST: redis.knbob.online
+MYSQL_HOST: mysql.knbob.online
+RABBITMQ_HOST: rabbitmq.knbob.online
+CATALOGUE_HOST: catalogue.knbob.online
+USER_HOST: user.knbob.online
+CART_HOST: cart.knbob.online
+SHIPPING_HOST: shipping.knbob.online
+PAYMENT_HOST: payment.knbob.online
+DISPATCH_HOST: dispatch.knbob.online
